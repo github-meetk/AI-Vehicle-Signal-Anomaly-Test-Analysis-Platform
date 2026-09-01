@@ -1,0 +1,1502 @@
+[
+  {
+    "scenario_id": "SCN-0042-0000",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 89250,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0001",
+    "fault_type": "STUCK_SENSOR",
+    "affected_signal": "battery_temperature",
+    "injection_time": 161.84208174356183,
+    "expected_anomaly": true,
+    "severity": "MEDIUM",
+    "random_seed": 773956,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0002",
+    "fault_type": "THERMAL_THRESHOLD_VIOLATION",
+    "affected_signal": "battery_temperature",
+    "injection_time": 165.66838211942118,
+    "expected_anomaly": true,
+    "severity": "CRITICAL",
+    "random_seed": 201469,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0003",
+    "fault_type": "TEMPERATURE_SPIKE",
+    "affected_signal": "battery_temperature",
+    "injection_time": 127.68681796053275,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 94177,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0004",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 839748,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0005",
+    "fault_type": "COOLING_FAILURE",
+    "affected_signal": "coolant_temperature",
+    "injection_time": 158.63190720483988,
+    "expected_anomaly": true,
+    "severity": "CRITICAL",
+    "random_seed": 450385,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0006",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 402414,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0007",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 822761,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0008",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 92135,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0009",
+    "fault_type": "TEMPERATURE_SENSOR_DRIFT",
+    "affected_signal": "battery_temperature",
+    "injection_time": 157.8998639473239,
+    "expected_anomaly": true,
+    "severity": "MEDIUM",
+    "random_seed": 554584,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0010",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 165229,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0011",
+    "fault_type": "THERMAL_THRESHOLD_VIOLATION",
+    "affected_signal": "battery_temperature",
+    "injection_time": 173.58726727933185,
+    "expected_anomaly": true,
+    "severity": "CRITICAL",
+    "random_seed": 758087,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0012",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 677919,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0013",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 778383,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0014",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 497791,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0015",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 43803,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0016",
+    "fault_type": "THERMAL_THRESHOLD_VIOLATION",
+    "affected_signal": "battery_temperature",
+    "injection_time": 139.54952148828912,
+    "expected_anomaly": true,
+    "severity": "CRITICAL",
+    "random_seed": 922527,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0017",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 744762,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0018",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 76343,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0019",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 469555,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0020",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 686478,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0021",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 475704,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0022",
+    "fault_type": "TEMPERATURE_SENSOR_DRIFT",
+    "affected_signal": "battery_temperature",
+    "injection_time": 162.01590612013496,
+    "expected_anomaly": true,
+    "severity": "MEDIUM",
+    "random_seed": 940306,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0023",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 437151,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0024",
+    "fault_type": "TEMPERATURE_SENSOR_DRIFT",
+    "affected_signal": "battery_temperature",
+    "injection_time": 143.24870274181046,
+    "expected_anomaly": true,
+    "severity": "MEDIUM",
+    "random_seed": 767843,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0025",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 832259,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0026",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 239557,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0027",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 682495,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0028",
+    "fault_type": "TEMPERATURE_SPIKE",
+    "affected_signal": "battery_temperature",
+    "injection_time": 159.8910513955219,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 804899,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0029",
+    "fault_type": "BATTERY_VOLTAGE_DROP",
+    "affected_signal": "battery_voltage",
+    "injection_time": 166.84374186131808,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 7362,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0030",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 555646,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0031",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 458915,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0032",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 245481,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0033",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 114530,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0034",
+    "fault_type": "CURRENT_SPIKE",
+    "affected_signal": "battery_current",
+    "injection_time": 158.08309920003546,
+    "expected_anomaly": true,
+    "severity": "MEDIUM",
+    "random_seed": 855080,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0035",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 565236,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0036",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 90566,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0037",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 559207,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0038",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 347499,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0039",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 436717,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0040",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 992665,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0041",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 853403,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0042",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 855670,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0043",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 281383,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0044",
+    "fault_type": "TEMPERATURE_SPIKE",
+    "affected_signal": "battery_temperature",
+    "injection_time": 159.85881241964324,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 126280,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0045",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 557032,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0046",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 417958,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0047",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 814020,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0048",
+    "fault_type": "BATTERY_VOLTAGE_DROP",
+    "affected_signal": "battery_voltage",
+    "injection_time": 147.71263381508325,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 106142,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0049",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 90047,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0050",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 900621,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0051",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 501044,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0052",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 495625,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0053",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 446156,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0054",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 683700,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0055",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 630282,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0056",
+    "fault_type": "IMPOSSIBLE_SIGNAL_COMBINATION",
+    "affected_signal": "battery_current",
+    "injection_time": 174.51484144245643,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 342590,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0057",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 118005,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0058",
+    "fault_type": "THERMAL_THRESHOLD_VIOLATION",
+    "affected_signal": "battery_temperature",
+    "injection_time": 166.7250542379477,
+    "expected_anomaly": true,
+    "severity": "CRITICAL",
+    "random_seed": 457417,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0059",
+    "fault_type": "BATTERY_VOLTAGE_DROP",
+    "affected_signal": "battery_voltage",
+    "injection_time": 146.9616901286273,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 265869,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0060",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 736919,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0061",
+    "fault_type": "COOLING_FAILURE",
+    "affected_signal": "coolant_temperature",
+    "injection_time": 147.34657739001665,
+    "expected_anomaly": true,
+    "severity": "CRITICAL",
+    "random_seed": 272241,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0062",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 704032,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0063",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 202363,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0064",
+    "fault_type": "STUCK_SENSOR",
+    "affected_signal": "battery_temperature",
+    "injection_time": 165.5111717901126,
+    "expected_anomaly": true,
+    "severity": "MEDIUM",
+    "random_seed": 546907,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0065",
+    "fault_type": "BATTERY_VOLTAGE_DROP",
+    "affected_signal": "battery_voltage",
+    "injection_time": 145.92558238650622,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 176772,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0066",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 308667,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0067",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 627308,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0068",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 628745,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0069",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 84444,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0070",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 179456,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0071",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 493990,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0072",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 677702,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0073",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 103402,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0074",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 299992,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0075",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 925120,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0076",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 612451,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0077",
+    "fault_type": "IMPOSSIBLE_SIGNAL_COMBINATION",
+    "affected_signal": "battery_current",
+    "injection_time": 148.938206216574,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 590915,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0078",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 467107,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0079",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 782735,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0080",
+    "fault_type": "IMPOSSIBLE_SIGNAL_COMBINATION",
+    "affected_signal": "battery_current",
+    "injection_time": 154.30368314256452,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 671124,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0081",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 490706,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0082",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 807597,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0083",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 266975,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0084",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 849777,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0085",
+    "fault_type": "TEMPERATURE_SENSOR_DRIFT",
+    "affected_signal": "battery_temperature",
+    "injection_time": 173.769646310386,
+    "expected_anomaly": true,
+    "severity": "MEDIUM",
+    "random_seed": 438911,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0086",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 542827,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0087",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 140249,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0088",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 665988,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0089",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 672240,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0090",
+    "fault_type": "TEMPERATURE_SPIKE",
+    "affected_signal": "battery_temperature",
+    "injection_time": 126.46445675735379,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 730295,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0091",
+    "fault_type": "COOLING_FAILURE",
+    "affected_signal": "coolant_temperature",
+    "injection_time": 133.81283945369285,
+    "expected_anomaly": true,
+    "severity": "CRITICAL",
+    "random_seed": 726994,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0092",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 236455,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0093",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 37412,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0094",
+    "fault_type": "TEMPERATURE_SENSOR_DRIFT",
+    "affected_signal": "battery_temperature",
+    "injection_time": 139.02833356936293,
+    "expected_anomaly": true,
+    "severity": "MEDIUM",
+    "random_seed": 309955,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0095",
+    "fault_type": "IMPOSSIBLE_SIGNAL_COMBINATION",
+    "affected_signal": "battery_current",
+    "injection_time": 137.45507028840711,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 829789,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0096",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 621859,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0097",
+    "fault_type": "IMPOSSIBLE_SIGNAL_COMBINATION",
+    "affected_signal": "battery_current",
+    "injection_time": 129.87646905492107,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 515057,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0098",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 533156,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0099",
+    "fault_type": "THERMAL_THRESHOLD_VIOLATION",
+    "affected_signal": "battery_temperature",
+    "injection_time": 173.50063597529484,
+    "expected_anomaly": true,
+    "severity": "CRITICAL",
+    "random_seed": 44910,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0100",
+    "fault_type": "MISSING_SIGNAL",
+    "affected_signal": "battery_current",
+    "injection_time": 173.60679838187178,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 90928,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0101",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 748608,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0102",
+    "fault_type": "TEMPERATURE_SPIKE",
+    "affected_signal": "battery_temperature",
+    "injection_time": 159.69967579006567,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 469545,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0103",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 315929,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0104",
+    "fault_type": "CURRENT_SPIKE",
+    "affected_signal": "battery_current",
+    "injection_time": 135.74763095537187,
+    "expected_anomaly": true,
+    "severity": "MEDIUM",
+    "random_seed": 886295,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0105",
+    "fault_type": "IMPOSSIBLE_SIGNAL_COMBINATION",
+    "affected_signal": "battery_current",
+    "injection_time": 134.4582345003411,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 94466,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0106",
+    "fault_type": "TEMPERATURE_SENSOR_DRIFT",
+    "affected_signal": "battery_temperature",
+    "injection_time": 129.19705899746964,
+    "expected_anomaly": true,
+    "severity": "MEDIUM",
+    "random_seed": 31911,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0107",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 122757,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0108",
+    "fault_type": "MISSING_SIGNAL",
+    "affected_signal": "battery_current",
+    "injection_time": 131.78607994287438,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 367208,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0109",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 599382,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0110",
+    "fault_type": "THERMAL_THRESHOLD_VIOLATION",
+    "affected_signal": "battery_temperature",
+    "injection_time": 150.04447117214053,
+    "expected_anomaly": true,
+    "severity": "CRITICAL",
+    "random_seed": 998027,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0111",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 777404,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0112",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 934372,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0113",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 13936,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0114",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 17961,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0115",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 677658,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0116",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 927502,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0117",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 694262,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0118",
+    "fault_type": "BATTERY_VOLTAGE_DROP",
+    "affected_signal": "battery_voltage",
+    "injection_time": 164.3390402349325,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 864314,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0119",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 804124,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0120",
+    "fault_type": "COOLING_FAILURE",
+    "affected_signal": "coolant_temperature",
+    "injection_time": 143.85469162949644,
+    "expected_anomaly": true,
+    "severity": "CRITICAL",
+    "random_seed": 433835,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0121",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 123753,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0122",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 132216,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0123",
+    "fault_type": "IMPOSSIBLE_SIGNAL_COMBINATION",
+    "affected_signal": "battery_current",
+    "injection_time": 137.1867736129233,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 488584,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0124",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 960284,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0125",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 924808,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0126",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 148208,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0127",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 633975,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0128",
+    "fault_type": "IMPOSSIBLE_SIGNAL_COMBINATION",
+    "affected_signal": "battery_current",
+    "injection_time": 155.76255319406238,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 748826,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0129",
+    "fault_type": "COOLING_FAILURE",
+    "affected_signal": "coolant_temperature",
+    "injection_time": 168.26165493677826,
+    "expected_anomaly": true,
+    "severity": "CRITICAL",
+    "random_seed": 419114,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0130",
+    "fault_type": "TEMPERATURE_SPIKE",
+    "affected_signal": "battery_temperature",
+    "injection_time": 121.07020703861926,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 432079,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0131",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 467381,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0132",
+    "fault_type": "TEMPERATURE_SPIKE",
+    "affected_signal": "battery_temperature",
+    "injection_time": 133.958444517986,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 287931,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0133",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 829428,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0134",
+    "fault_type": "MISSING_SIGNAL",
+    "affected_signal": "battery_current",
+    "injection_time": 156.18642944032354,
+    "expected_anomaly": true,
+    "severity": "HIGH",
+    "random_seed": 765147,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0135",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 606015,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0136",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 118894,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0137",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 374184,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0138",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 962614,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0139",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 867490,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0140",
+    "fault_type": "CURRENT_SPIKE",
+    "affected_signal": "battery_current",
+    "injection_time": 168.99412580543463,
+    "expected_anomaly": true,
+    "severity": "MEDIUM",
+    "random_seed": 268691,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0141",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 236662,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0142",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 881632,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0143",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 66558,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0144",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 192301,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0145",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 824664,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0146",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 915266,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0147",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 920970,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0148",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 577415,
+    "generator_version": "1.0.0"
+  },
+  {
+    "scenario_id": "SCN-0042-0149",
+    "fault_type": "NONE",
+    "affected_signal": null,
+    "injection_time": null,
+    "expected_anomaly": false,
+    "severity": null,
+    "random_seed": 153613,
+    "generator_version": "1.0.0"
+  }
+]
